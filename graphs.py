@@ -12,10 +12,10 @@ class Graphs:
         pass
 
     def trapeziumGraph(self, table):
-        equation =
         pass
 
     def rectangleGraph(self, table):
         pass
 
     def simpsonGraph(self, table):
+        pass
